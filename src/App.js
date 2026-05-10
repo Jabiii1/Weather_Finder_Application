@@ -65,6 +65,15 @@ function App() {
         <h1 style={{ color: "#2c3e50", fontSize: "36px", margin: "0 0 30px 0" }}>
           🌤️ Weather App
         </h1>
+        
+        <h1 style={{ color: "#2c3e50", fontSize: "36px", margin: "0 0 30px 0" }}>
+          Jayvee C. Garcia 
+        </h1>
+
+       <h1 style={{ color: "#2c3e50", fontSize: "36px", margin: "0 0 30px 0" }}>
+          BSIT-2A 
+        </h1>
+        
 
         <div style={{ display: "flex", gap: "15px", marginBottom: "30px" }}>
           <input
