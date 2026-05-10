@@ -63,14 +63,6 @@ function App() {
         }}
       >
 
-        <h4 style={{ color: "#2c3e50", fontSize: "36px", margin: "0 0 30px 0" }}>
-          Jayvee C. Garcia 
-        </h4>
-
-        <h4 style={{ color: "#2c3e50", fontSize: "36px", margin: "0 0 30px 0" }}>
-          BSIT-2A 
-        </h4>
-        
         <h1 style={{ color: "#2c3e50", fontSize: "36px", margin: "0 0 30px 0" }}>
           🌤️ Weather App
         </h1>
